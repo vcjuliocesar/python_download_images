@@ -1,4 +1,4 @@
-# python_download_images
+# python download images
 ## Requirements
 -   Python 3
 -   PIP 3
